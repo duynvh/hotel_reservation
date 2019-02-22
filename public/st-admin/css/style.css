@@ -1,0 +1,120 @@
+.status{
+    width: 55px;
+}
+
+.ordering{
+    text-align: center;
+}
+.totalMember{
+    font-weight: bold;
+    font-size: 13px;
+}
+.btn-mar-search{
+    margin-left: 10px !important;
+}
+.mar-lft-10{
+    margin-left: 10px;
+}
+
+.pagination {
+    display: inline-block;
+    padding-left: 0;
+    margin: 0;
+    float: right;
+    border-radius: 4px;
+}
+
+.titlePage{
+    color: white;
+    font-size: 12px !important;
+}
+
+.icon-fix-right-80{
+    right: 80px !important;
+}
+
+.icon-fix-right-70{
+    right: 70px !important;
+}
+
+.fix-padding-button{
+    padding: 0px 17px !important;
+    margin-bottom: 0px;
+}
+.x_content-fix-padding{
+    padding: 0 5px !important;
+}
+.alert-fix-margin{
+    margin-bottom: 5px;
+}
+
+.alert-fix-maxwidth{
+    max-width: 200px !important;
+}
+
+.td-content{
+    vertical-align: middle !important;
+}
+
+.img-avatar{
+    width: 40px;
+}
+
+.img-thumbnail{
+    width: 100px;
+}
+
+.btn-fix-bg{
+    background-color: #fff !important;
+}
+
+.col-fix-mar-left{
+    margin-left: -10px;
+}
+.col-fix-mar-right{
+    margin-right: -8px;
+}
+.ordering-level{
+    width: 50px;
+    text-align:center;
+    display: inline-block;
+}
+.panel_toolbox>li {
+    float: right;
+    cursor: pointer;
+}
+.email-tag{
+    position: relative;
+    float: left;
+    width: 250px;
+    margin: 10px;
+}
+
+.type{
+    width: 60px;
+}
+
+#preview{
+    opacity: 1;
+    visibility: visible;
+    display: inline-block;
+    outline: none;
+    transition: all 0.5s ease 0s;
+    text-align: left;
+    position: relative;
+    vertical-align: middle;
+    width: 600px;
+}
+
+.x-radius{
+    border-radius: 5px;
+}
+
+.dashboard-count .x_content {
+    margin-top: 0px;
+}
+
+.dashboard-count .x_content .count-number {
+    font-size: 40px;
+    font-weight: 600
+}
